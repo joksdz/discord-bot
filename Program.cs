@@ -26,7 +26,7 @@ namespace my_discord_bot_v2
             var discord = new DiscordClient(new DiscordConfiguration()
             {
 
-                Token = "OTYwNDU2NzI5MDkzNjIzODA4.YkqtCA.1wZDEFY3IT3ODDXuv3Hs6ZlNIHU",
+                Token = "I cnan't give you my token",
                 TokenType = TokenType.Bot,
                 Intents = DiscordIntents.AllUnprivileged
             });
